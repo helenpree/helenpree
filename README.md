@@ -3,7 +3,7 @@
 - 💞️ I’m looking for placements(software developer role).
 - 📫 How to reach me: preethihelen2@gmail.com , helenrani2010@gmail.com
 - 😄 Pronouns:Techieee..
-- ⚡ Fun fact:I know you!! 
+- ⚡ Fun fact: I know you!! 
 
 <!---
 helenpree/helenpree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
