@@ -1,11 +1,12 @@
-- 👋 Hi This is HELEN PREETHI here,
-- 🌱 I’m currently learning MCA(corres) and looking for placement.
+- 👋 Hi This is PREETHI here,
+- 🌱 I'm a graduate of BSC.CS and MCA(Correspondence).
 - 💞️ I’m looking for placements(software developer role).
-- 📫 How to reach me: preethihelen2@gmail.com , helenrani2010@gmail.com
-- 😄 Pronouns:Techieee..
-- ⚡ Fun fact: I know you!! 
-
-<!---
-helenpree/helenpree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me:
+  preethihelen2@gmail.com , helenrani2010@gmail.com
+- Pronouns:Techieee💻😋
+- ⚡ Fun fact: I'm watching you👀
+I CODE IN:-
+👉PYTHON 👉HTML 👉MYSQL  👉LINUX 👉JAVA 👉C++
+👉EXCEL 👉POWERBI 👉WORD 👉POWERPOINT 
+IDE and TOOLS I USE:-
+👉VS CODE 👉PYCHARM 👉JUPYTER 👉SPYDER 👉PYTHONIDLE
