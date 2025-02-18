@@ -5,8 +5,8 @@
   preethihelen2@gmail.com , helenrani2010@gmail.com
 - Pronouns:Techieee💻😋
 - ⚡ Fun fact: I'm watching you👀
-I CODE IN:-
-👉PYTHON 👉HTML 👉MYSQL  👉LINUX 👉JAVA 👉C++
-👉EXCEL 👉POWERBI 👉WORD 👉POWERPOINT 
-IDE and TOOLS I USE:-
-👉VS CODE 👉PYCHARM 👉JUPYTER 👉SPYDER 👉PYTHONIDLE
+- I CODE IN:-
+ 👉PYTHON 👉HTML 👉MYSQL  👉LINUX 👉JAVA 👉C++
+ 👉EXCEL 👉POWERBI 👉WORD 👉POWERPOINT 
+- IDE and TOOLS I USE:-
+  👉VS CODE 👉PYCHARM 👉JUPYTER 👉SPYDER 👉PYTHONIDLE
